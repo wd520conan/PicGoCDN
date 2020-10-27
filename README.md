@@ -1,0 +1,2 @@
+# PicGoCDN
+BAIPIAO-CDN
